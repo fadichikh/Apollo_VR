@@ -1,6 +1,6 @@
 # On Board Apollo 11
 ## Description and objectives
-This project was made for the class _Réalité virtuelle et augmentée_ given by Isaac Pante at UNIL.
+This project was made for the class _Réalité virtuelle.
 
 The objective was to create a VR scene using the A-Frame framework.
 
@@ -10,7 +10,7 @@ To add some interactivity, the users can click on the radio, to play music or on
 The module and the moon are at 10'000th of their real scale.
 ![Little demo](https://github.com/Squidez/VR-project/blob/main/assets/readme/demo.gif)
 ## Installation requirements
-The website is live at https://squidez.github.io/Apollo-11-VR/ or you can clone the project and excecute _index.html_.
+
  
 ## Package
 This project uses the A-Frame package: https://aframe.io/
